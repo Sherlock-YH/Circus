@@ -1,6 +1,6 @@
-# Circus
+# circus
 
-The Circus project
+The circus project
 
 ### Credits
 
